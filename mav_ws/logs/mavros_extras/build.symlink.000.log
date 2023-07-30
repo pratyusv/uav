@@ -1,0 +1,6 @@
+Symlinking /home/pi/src/mav_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+Symlinking /home/pi/src/mav_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+Symlinking /home/pi/src/mav_ws/devel/lib/libmavros_extras.so
+Symlinking /home/pi/src/mav_ws/devel/lib/mavros_extras/servo_state_publisher
+Symlinking /home/pi/src/mav_ws/devel/lib/mavros_extras/copter_visualization
+Symlinking /home/pi/src/mav_ws/devel/lib/pkgconfig/mavros_extras.pc

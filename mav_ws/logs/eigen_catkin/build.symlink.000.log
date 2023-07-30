@@ -1,0 +1,4 @@
+Symlinking /home/pi/src/mav_ws/devel/share/eigen_catkin/cmake/eigen-extras.cmake
+Symlinking /home/pi/src/mav_ws/devel/share/eigen_catkin/cmake/eigen_catkinConfig-version.cmake
+Symlinking /home/pi/src/mav_ws/devel/share/eigen_catkin/cmake/eigen_catkinConfig.cmake
+Symlinking /home/pi/src/mav_ws/devel/lib/pkgconfig/eigen_catkin.pc

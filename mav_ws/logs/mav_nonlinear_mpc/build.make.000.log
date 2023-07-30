@@ -1,0 +1,233 @@
+[35m[1mScanning dependencies of target mav_disturbance_observer_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target mav_disturbance_observer_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target mav_disturbance_observer_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target mav_disturbance_observer_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target mav_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target mav_disturbance_observer_generate_messages_eus[0m
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target mav_disturbance_observer_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target mav_disturbance_observer_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target mav_disturbance_observer_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_py[0m
+[  0%] Built target mav_msgs_generate_messages_nodejs
+[  0%] Built target mav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target mav_disturbance_observer_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target mav_disturbance_observer_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target mav_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[  0%] Built target visualization_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target mav_nonlinear_mpc_gencfg[0m
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[  5%] [34m[1mGenerating dynamic reconfigure files from cfg/NonLinearMPC.cfg: /home/pi/src/mav_ws/devel/.private/mav_nonlinear_mpc/include/mav_nonlinear_mpc/NonLinearMPCConfig.h /home/pi/src/mav_ws/devel/.private/mav_nonlinear_mpc/lib/python2.7/dist-packages/mav_nonlinear_mpc/cfg/NonLinearMPCConfig.py[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  5%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target mav_disturbance_observer_gencfg[0m
+[  5%] Built target mav_disturbance_observer_gencfg
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[  5%] Built target visualization_msgs_generate_messages_nodejs
+Generating reconfiguration files for NonLinearMPC in mav_nonlinear_mpc
+Wrote header file in /home/pi/src/mav_ws/devel/.private/mav_nonlinear_mpc/include/mav_nonlinear_mpc/NonLinearMPCConfig.h
+[  5%] Built target mav_nonlinear_mpc_gencfg
+[35m[1mScanning dependencies of target mav_nonlinear_mpc_lib[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/src/nonlinear_mpc.cc.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/qpoases/SRC/Bounds.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/qpoases/SRC/Constraints.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/qpoases/SRC/CyclingManager.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/qpoases/SRC/Indexlist.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/qpoases/SRC/MessageHandling.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/qpoases/SRC/QProblem.cpp.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/qpoases/SRC/QProblemB.cpp.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/qpoases/SRC/SubjectTo.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/qpoases/SRC/Utils.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/qpoases/SRC/EXTRAS/SolutionAnalysis.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/acado_qpoases_interface.cpp.o[0m
+[ 73%] [32mBuilding C object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/acado_integrator.c.o[0m
+In file included from [01m[K/opt/ros/kinetic/include/tf/transform_datatypes.h:44:0[m[K,
+                 from [01m[K/home/pi/src/mav_ws/src/mav_control_rw/mav_nonlinear_mpc/src/nonlinear_mpc.cc:31[m[K:
+[01m[K/home/pi/src/mav_ws/src/mav_comm/mav_msgs/include/mav_msgs/conversions.h:[m[K In function ‘[01m[Kvoid mav_msgs::eigenTrajectoryPointFromMsg(const MultiDOFJointTrajectoryPoint&, mav_msgs::EigenTrajectoryPoint*)[m[K’:
+[01m[K/opt/ros/kinetic/include/ros/console.h:346:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%lu[m[K’ expects argument of type ‘[01m[Klong unsigned int[m[K’, but argument 8 has type ‘[01m[Kstd::vector<geometry_msgs::Transform_<std::allocator<void> >, std::allocator<geometry_msgs::Transform_<std::allocator<void> > > >::size_type {aka unsigned int}[m[K’ [-Wformat=]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[01;32m[K                                                                                                                                                                                ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:349:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[01;32m[K     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:379:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:561:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[01;32m[K                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/rosconsole/macros_generated.h:162:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_WARN(...) ROS_LOG(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[01;32m[K                       ^[m[K
+[01m[K/home/pi/src/mav_ws/src/mav_comm/mav_msgs/include/mav_msgs/conversions.h:321:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
+     ROS_WARN(
+[01;32m[K     ^[m[K
+[ 78%] [32mBuilding C object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/acado_solver.c.o[0m
+[ 84%] [32mBuilding C object CMakeFiles/mav_nonlinear_mpc_lib.dir/solver/acado_auxiliary_functions.c.o[0m
+[ 89%] [32m[1mLinking CXX shared library /home/pi/src/mav_ws/devel/.private/mav_nonlinear_mpc/lib/libmav_nonlinear_mpc_lib.so[0m
+[ 89%] Built target mav_nonlinear_mpc_lib
+[35m[1mScanning dependencies of target nonlinear_mpc_node[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/nonlinear_mpc_node.dir/src/nonlinear_mpc_node.cc.o[0m
+In file included from [01m[K/opt/ros/kinetic/include/ros/ros.h:40:0[m[K,
+                 from [01m[K/home/pi/src/mav_ws/src/mav_control_rw/mav_nonlinear_mpc/src/nonlinear_mpc_node.cc:31[m[K:
+[01m[K/home/pi/src/mav_ws/src/mav_comm/mav_msgs/include/mav_msgs/conversions.h:[m[K In function ‘[01m[Kvoid mav_msgs::eigenTrajectoryPointFromMsg(const MultiDOFJointTrajectoryPoint&, mav_msgs::EigenTrajectoryPoint*)[m[K’:
+[01m[K/opt/ros/kinetic/include/ros/console.h:346:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%lu[m[K’ expects argument of type ‘[01m[Klong unsigned int[m[K’, but argument 8 has type ‘[01m[Kstd::vector<geometry_msgs::Transform_<std::allocator<void> >, std::allocator<geometry_msgs::Transform_<std::allocator<void> > > >::size_type {aka unsigned int}[m[K’ [-Wformat=]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[01;32m[K                                                                                                                                                                                ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:349:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[01;32m[K     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:379:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:561:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[01;32m[K                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/rosconsole/macros_generated.h:162:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_WARN(...) ROS_LOG(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[01;32m[K                       ^[m[K
+[01m[K/home/pi/src/mav_ws/src/mav_comm/mav_msgs/include/mav_msgs/conversions.h:321:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
+     ROS_WARN(
+[01;32m[K     ^[m[K
+[100%] [32m[1mLinking CXX executable /home/pi/src/mav_ws/devel/.private/mav_nonlinear_mpc/lib/mav_nonlinear_mpc/nonlinear_mpc_node[0m
+[100%] Built target nonlinear_mpc_node

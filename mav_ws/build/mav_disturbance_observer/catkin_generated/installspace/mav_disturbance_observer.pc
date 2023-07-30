@@ -1,0 +1,8 @@
+prefix=/home/pi/src/mav_ws/install
+
+Name: mav_disturbance_observer
+Description: Description of mav_disturbance_observer
+Version: 1.0.0
+Cflags: -I/home/pi/src/mav_ws/install/include
+Libs: -L/home/pi/src/mav_ws/install/lib -lKFDisturbanceObserverLibrary
+Requires: dynamic_reconfigure mav_msgs roscpp cmake_modules tf message_generation

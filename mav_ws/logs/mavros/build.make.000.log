@@ -1,0 +1,18 @@
+[ 26%] Built target mavros
+[ 31%] Built target mavros_node
+[35m[1mScanning dependencies of target gcs_bridge[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/gcs_bridge.dir/src/gcs_bridge.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/setpoint_attitude.cpp.o[0m
+[ 39%] [32m[1mLinking CXX executable /home/pi/src/mav_ws/devel/.private/mavros/lib/mavros/gcs_bridge[0m
+[ 39%] Built target gcs_bridge
+[ 41%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/setpoint_raw.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/vfr_hud.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/ftp.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/actuator_control.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/manual_control.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/altitude.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/hil.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/home_position.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/mavros_plugins.dir/src/plugins/wind_estimation.cpp.o[0m
+[ 63%] [32m[1mLinking CXX shared library /home/pi/src/mav_ws/devel/.private/mavros/lib/libmavros_plugins.so[0m
+[100%] Built target mavros_plugins

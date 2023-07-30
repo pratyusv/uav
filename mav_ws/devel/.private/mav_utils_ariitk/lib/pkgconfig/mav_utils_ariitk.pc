@@ -1,0 +1,8 @@
+prefix=/home/pi/src/mav_ws/devel/.private/mav_utils_ariitk
+
+Name: mav_utils_ariitk
+Description: Description of mav_utils_ariitk
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/src/mav_ws/devel/.private/mav_utils_ariitk/lib 
+Requires: 

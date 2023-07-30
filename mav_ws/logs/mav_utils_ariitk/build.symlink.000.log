@@ -1,0 +1,3 @@
+Symlinking /home/pi/src/mav_ws/devel/share/mav_utils_ariitk/cmake/mav_utils_ariitkConfig-version.cmake
+Symlinking /home/pi/src/mav_ws/devel/share/mav_utils_ariitk/cmake/mav_utils_ariitkConfig.cmake
+Symlinking /home/pi/src/mav_ws/devel/lib/pkgconfig/mav_utils_ariitk.pc

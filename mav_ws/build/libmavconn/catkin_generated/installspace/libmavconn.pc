@@ -1,0 +1,8 @@
+prefix=/home/pi/src/mav_ws/install
+
+Name: libmavconn
+Description: Description of libmavconn
+Version: 0.26.3
+Cflags: -I/home/pi/src/mav_ws/install/include -I/usr/include -I/opt/ros/kinetic/include
+Libs: -L/home/pi/src/mav_ws/install/lib -lmavconn /usr/lib/arm-linux-gnueabihf/libboost_system.so /usr/lib/arm-linux-gnueabihf/libconsole_bridge.so
+Requires: 

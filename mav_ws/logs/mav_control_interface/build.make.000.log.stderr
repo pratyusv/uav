@@ -1,0 +1,69 @@
+In file included from [01m[K/opt/ros/kinetic/include/ros/ros.h:40:0[m[K,
+                 from [01m[K/opt/ros/kinetic/include/mav_msgs/conversions.h:32[m[K,
+                 from [01m[K/home/pi/src/mav_ws/src/mav_control_rw/mav_control_interface/include/mav_control_interface/mpc_queue.h:22[m[K,
+                 from [01m[K/home/pi/src/mav_ws/src/mav_control_rw/mav_control_interface/src/mpc_queue.cpp:18[m[K:
+[01m[K/opt/ros/kinetic/include/mav_msgs/conversions.h:[m[K In function ‘[01m[Kvoid mav_msgs::eigenTrajectoryPointFromMsg(const MultiDOFJointTrajectoryPoint&, mav_msgs::EigenTrajectoryPoint*)[m[K’:
+[01m[K/opt/ros/kinetic/include/ros/console.h:346:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%lu[m[K’ expects argument of type ‘[01m[Klong unsigned int[m[K’, but argument 8 has type ‘[01m[Kstd::vector<geometry_msgs::Transform_<std::allocator<void> >, std::allocator<geometry_msgs::Transform_<std::allocator<void> > > >::size_type {aka unsigned int}[m[K’ [-Wformat=]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[01;32m[K                                                                                                                                                                                ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:349:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[01;32m[K     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:379:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:561:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[01;32m[K                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/rosconsole/macros_generated.h:162:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_WARN(...) ROS_LOG(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[01;32m[K                       ^[m[K
+[01m[K/opt/ros/kinetic/include/mav_msgs/conversions.h:321:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
+     ROS_WARN(
+[01;32m[K     ^[m[K
+In file included from [01m[K/opt/ros/kinetic/include/tf/transform_datatypes.h:44:0[m[K,
+                 from [01m[K/opt/ros/kinetic/include/tf_conversions/tf_eigen.h:35[m[K,
+                 from [01m[K/home/pi/src/mav_ws/src/mav_control_rw/mav_control_interface/src/state_machine.cpp:20[m[K:
+[01m[K/opt/ros/kinetic/include/mav_msgs/conversions.h:[m[K In function ‘[01m[Kvoid mav_msgs::eigenTrajectoryPointFromMsg(const MultiDOFJointTrajectoryPoint&, mav_msgs::EigenTrajectoryPoint*)[m[K’:
+[01m[K/opt/ros/kinetic/include/ros/console.h:346:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%lu[m[K’ expects argument of type ‘[01m[Klong unsigned int[m[K’, but argument 8 has type ‘[01m[Kstd::vector<geometry_msgs::Transform_<std::allocator<void> >, std::allocator<geometry_msgs::Transform_<std::allocator<void> > > >::size_type {aka unsigned int}[m[K’ [-Wformat=]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[01;32m[K                                                                                                                                                                                ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:349:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[01;32m[K     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:379:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:561:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[01;32m[K                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/rosconsole/macros_generated.h:162:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_WARN(...) ROS_LOG(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[01;32m[K                       ^[m[K
+[01m[K/opt/ros/kinetic/include/mav_msgs/conversions.h:321:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
+     ROS_WARN(
+[01;32m[K     ^[m[K
+In file included from [01m[K/opt/ros/kinetic/include/ros/ros.h:40:0[m[K,
+                 from [01m[K/opt/ros/kinetic/include/mav_msgs/conversions.h:32[m[K,
+                 from [01m[K/home/pi/src/mav_ws/src/mav_control_rw/mav_control_interface/include/mav_control_interface/position_controller_interface.h:21[m[K,
+                 from [01m[K/home/pi/src/mav_ws/src/mav_control_rw/mav_control_interface/include/mav_control_interface/mav_control_interface.h:23[m[K,
+                 from [01m[K/home/pi/src/mav_ws/src/mav_control_rw/mav_control_interface/src/test_node.cpp:18[m[K:
+[01m[K/opt/ros/kinetic/include/mav_msgs/conversions.h:[m[K In function ‘[01m[Kvoid mav_msgs::eigenTrajectoryPointFromMsg(const MultiDOFJointTrajectoryPoint&, mav_msgs::EigenTrajectoryPoint*)[m[K’:
+[01m[K/opt/ros/kinetic/include/ros/console.h:346:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%lu[m[K’ expects argument of type ‘[01m[Klong unsigned int[m[K’, but argument 8 has type ‘[01m[Kstd::vector<geometry_msgs::Transform_<std::allocator<void> >, std::allocator<geometry_msgs::Transform_<std::allocator<void> > > >::size_type {aka unsigned int}[m[K’ [-Wformat=]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[01;32m[K                                                                                                                                                                                ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:349:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[01;32m[K     ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:379:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[01;32m[K       ^[m[K
+[01m[K/opt/ros/kinetic/include/ros/console.h:561:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[01;32m[K                                   ^[m[K
+[01m[K/opt/ros/kinetic/include/rosconsole/macros_generated.h:162:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_WARN(...) ROS_LOG(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[01;32m[K                       ^[m[K
+[01m[K/opt/ros/kinetic/include/mav_msgs/conversions.h:321:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN[m[K’
+     ROS_WARN(
+[01;32m[K     ^[m[K
